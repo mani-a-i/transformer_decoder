@@ -1,1 +1,1 @@
-# transformer_decoder
+# transformer decoder implementation from scratch
